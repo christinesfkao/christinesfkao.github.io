@@ -1,0 +1,40 @@
+/*
+Error: Invalid US-ASCII character "\xE6"
+        on line 41 of /Users/christinesfkao/Desktop/portfolio/sass/style.scss
+
+36: 		}
+37: 	}
+38: 
+39: 	body, input, select, textarea {
+40: 		color: _palette(fg);
+41: 		font-family: 'Noto Sans CJK', '文泉驛微米黑', 'LiHei Pro', '微軟正黑體', 'Arial Unicode MS', sans-serif;
+42: 		font-size: 15pt;
+43: 		font-weight: _font(weight);
+44: 		letter-spacing: _size(letter-spacing);
+45: 		line-height: 1.65em;
+46: 
+
+Backtrace:
+/Users/christinesfkao/Desktop/portfolio/sass/style.scss:41
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1323:in `rescue in block in find_encoding_error'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1320:in `block in find_encoding_error'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1319:in `each'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1319:in `each_with_index'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:1319:in `find_encoding_error'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/util.rb:896:in `check_sass_encoding'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:423:in `check_encoding!'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:379:in `_to_tree'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:368:in `_render_with_sourcemap'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/engine.rb:285:in `render_with_sourcemap'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/exec/sass_scss.rb:396:in `run'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/exec/sass_scss.rb:62:in `process_result'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/exec/base.rb:52:in `parse'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/lib/sass/exec/base.rb:19:in `parse!'
+/Applications/Koala.app/Contents/Resources/app.nw/rubygems/gems/sass-3.4.9/bin/sass:13:in `<top (required)>'
+/Applications/Koala.app/Contents/Resources/app.nw/bin/sass:18:in `load'
+/Applications/Koala.app/Contents/Resources/app.nw/bin/sass:18:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid US-ASCII character \"\xE6\"\A         on line 41 of /Users/christinesfkao/Desktop/portfolio/sass/style.scss\A \A 36: 		}\A 37: 	}\A 38: \A 39: 	body, input, select, textarea {\A 40: 		color: _palette(fg);\A 41: 		font-family: 'Noto Sans CJK', '文泉驛微米黑', 'LiHei Pro', '微軟正黑體', 'Arial Unicode MS', sans-serif;\A 42: 		font-size: 15pt;\A 43: 		font-weight: _font(weight);\A 44: 		letter-spacing: _size(letter-spacing);\A 45: 		line-height: 1.65em;\A 46: "; }
