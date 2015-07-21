@@ -4,8 +4,7 @@
 @import 'mixins';
 @import 'skel';
 @import 'font-awesome.min.css';
-@import url(http://fonts.googleapis.com/earlyaccess/cwtexhei.css);
-@import url(http://fonts.googleapis.com/css?family=Noto+Serif);
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans);
 
 /*
 	Spectral by HTML5 UP
@@ -40,7 +39,7 @@
 
 	body, input, select, textarea {
 		color: _palette(fg);
-		font-family: 'Noto Serif', 'cwTeXHei';
+		font-family: 'Noto Sans', 'Noto Sans CJK', sans-serif;
 		font-size: 15pt;
 		font-weight: _font(weight);
 		letter-spacing: _size(letter-spacing);
