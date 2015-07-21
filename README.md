@@ -1,17 +1,15 @@
-Christine Kao's Personal Homepage
+# Christine Kao's Personal Homepage
+July 2015, CC-BY 3.0
 
-2015, CC-BY 3.0
-Find me at christinesfkao AT gmail DOT com
-or
-christinesfkao.tw
-
+Find me at  [christinesfkao AT gmail DOT com](mailto:christinesfkao@gmail.com)
+or [christinesfkao.tw](https://christinesfkao.tw)
 
 Credits:
 
 	Template Design:
-    Spectral by HTML5 UP
-    html5up.net | @n33co
-    n33.co @n33co dribbble.com/n33
+		Spectral by HTML5 UP
+		html5up.net | @n33co
+		n33.co @n33co dribbble.com/n33
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
