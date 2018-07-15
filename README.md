@@ -1,22 +1,17 @@
 # Christine Kao's Personal Homepage
-July 2015, CC-BY 3.0
+July 2018, CC-BY 3.0
 
-Find me at  [christinesfkao AT gmail DOT com](mailto:christinesfkao@gmail.com)
-or [christinesfkao.tw](https://christinesfkao.tw)
+Find me at [christinesfkao AT gmail DOT com](mailto:christinesfkao@gmail.com)
+or [christinesfkao.tw](http://christinesfkao.tw)
 
-Credits:
+## Credits:
 
 	Template Design:
-		Spectral by HTML5 UP
-		html5up.net | @n33co
-		n33.co @n33co dribbble.com/n33
+		Aerial by HTML5 UP
+		html5up.net | @ajlkn
 
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Font Awesome (fontawesome.io)
 
 	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Skel (n33.co)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
