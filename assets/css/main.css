@@ -874,8 +874,8 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 750px auto;
-			width: 2250px;
+			background-size: cover;
+			width: 1500px;
 		} }
 
 /* Mobile */
@@ -960,7 +960,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: cover;
 			width: 900px;
 		}
 
@@ -1058,7 +1058,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			background-size: cover;
 			width: 1237.5px;
 		}
 
