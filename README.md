@@ -1,5 +1,5 @@
 # Christine Kao's Personal Homepage
-May 2020, CC-BY 3.0
+May 2020, CC BY-SA 3.0
 
 Find me at [christinesfkao AT gmail DOT com](mailto:christinesfkao@gmail.com)
 or [christinesfkao.tw](http://christinesfkao.tw)
